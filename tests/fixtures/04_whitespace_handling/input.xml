@@ -1,0 +1,19 @@
+<root>
+  <application-reference>
+    <document-id format="epo">
+      <doc-number>  AAA111BBB  </doc-number>
+    </document-id>
+    <document-id format="epo">
+      <doc-number>
+        CCC222DDD
+      </doc-number>
+    </document-id>
+    <document-id format="epo">
+      <doc-number>	EEE333FFF	</doc-number>
+    </document-id>
+    <document-id format="epo">
+      <doc-number>   </doc-number>
+    </document-id>
+  </application-reference>
+</root>
+

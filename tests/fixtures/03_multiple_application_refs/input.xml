@@ -1,0 +1,27 @@
+<root>
+  <application-reference ucid="US-11111111-A">
+    <document-id format="epo">
+      <doc-number>100001111</doc-number>
+    </document-id>
+    <document-id format="patent-office">
+      <doc-number>100004444</doc-number>
+    </document-id>
+  </application-reference>
+  <application-reference ucid="US-22222222-A">
+    <document-id format="epo">
+      <doc-number>200002222</doc-number>
+    </document-id>
+    <document-id format="patent-office">
+      <doc-number>200005555</doc-number>
+    </document-id>
+  </application-reference>
+  <application-reference ucid="US-33333333-A">
+    <document-id format="epo">
+      <doc-number>300003333</doc-number>
+    </document-id>
+    <document-id format="patent-office">
+      <doc-number>300006666</doc-number>
+    </document-id>
+  </application-reference>
+</root>
+

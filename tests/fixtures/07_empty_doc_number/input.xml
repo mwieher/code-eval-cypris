@@ -1,0 +1,17 @@
+<root>
+  <application-reference>
+    <document-id format="epo">
+      <doc-number>111111111</doc-number>
+    </document-id>
+    <document-id format="epo">
+      <doc-number></doc-number>
+    </document-id>
+    <document-id format="epo">
+      <doc-number>   </doc-number>
+    </document-id>
+    <document-id format="patent-office">
+      <doc-number>333333333</doc-number>
+    </document-id>
+  </application-reference>
+</root>
+
