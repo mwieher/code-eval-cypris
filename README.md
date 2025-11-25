@@ -31,6 +31,8 @@ python
 ['999000888', '66667777']
 ```
 
+**Note:** For containerized deployment with REST API, see [Docker Usage](#docker-usage) below.
+
 ## Testing
 
 ### Run Unit Tests
